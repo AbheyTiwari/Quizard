@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzhkZnRwcHc1d2FiZWZvbHY5M3Vwcjgwc2VqMmlybWh0Zm1uZWp5biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/FBeSx4H1JknWc/giphy.gif" width="120" alt="Quizard Logo"/>
-</p>
 
 <h1 align="center">✨ Quizard: Your AI PDF Sidekick ✨</h1>
 
